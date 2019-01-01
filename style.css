@@ -1,0 +1,67 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+}
+
+.dropdown {
+  ` height: 35px;
+    width: 140px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 15px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+
+#submit {
+  background-color: #59ace0;
+  color: white;
+  border-radius: 5px;
+  font-size: 1em;
+  height: 40px;
+  width: 96px;
+  margin: 10px;
+  border: 0px solid;
+}
+
+.labels {
+ display: inline-block;
+ text-align: right;
+ width: 40%;
+ padding: 5px;
+ vertical-align: top;
+ margin-top: 10px;
+}
+
+.rightTab {
+  text-align: left;
+  display: inline-block;
+  width: 48%;
+  vertical-align: middle;
+}
+
+.inputField {
+  height: 20px;
+  width: 280px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+
+#description {
+  padding: 20px;
+  display: block;
+}
+
+.radio {
+  padding-bottom: 10px;
+}
+
+#survey-form {
+  background-color: white;
+  max-width: 915px;
+  margin: auto;
+}
